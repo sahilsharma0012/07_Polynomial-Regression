@@ -1,0 +1,1 @@
+In This notebook, I have covered Polynomial regression. How ploynomial regression works on non-linear data.
